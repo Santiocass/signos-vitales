@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/santiocas/Documents/GitHub/signos vitales/signos'
+relocations:     []
+...
